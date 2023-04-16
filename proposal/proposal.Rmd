@@ -1,7 +1,7 @@
 ---
-title: "Title"
+title: "Measuring Voters' Knowledge of the Electoral System and Behavior Analysis of Electoral Alliances"
 author: 
-  - Last Name, First Name[^1]
+  - Duman, Enes[^1]
 bibliography: ../bibliography/biblio.bib
 csl: ../csl/apa.csl
 header-includes:
@@ -32,34 +32,21 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
 <!-- ======================================================================= -->
 <!-- ============================== FOOTNOTES ============================== -->
 <!-- ======================================================================= -->
-[^1]: Student ID, [Github Repo](https://github.com/YOUR_USER_NAME_HERE/YOUR_REPO_NAME_HERE)
+[^1]: 20080481, [Github Repo](https://github.com/dumanenes3/Midterm)
 
-# Important Information About Midterm
-
-\colorbox{BurntOrange}{WRITE YOUR GITHUB REPO LINK ON LINE 35 IN THIS FILE!}
-
-**Project Proposal submisson will be done by uploading a zip file to the ekampus system along with the Github repo link. If you do not upload a zip file to the system and do not provide a Github repo link, you will be deemed not to have entered the midterm and final exams.**
-
-**You must upload your project folder (`YourStudentID.zip` file) to *ekampus.ankara.edu.tr* until 16 April 2023, 23:59.**
-
-\colorbox{WildStrawberry}{Read the README.md file in the project folder for more information.}
 
 # Introduction
-This outline has been created to assist you in writing your project assignment. You should cite all the sources you use, articles, presentations, projects, etc. Quoting and referencing gives readers the opportunity to access the resources you refer. **Even though you use your own words, if you are conveying the ideas of others in your work, you have to document the source of these ideas. Otherwise, you are committing academic plagiarism.** For example, you can refer to @aydinonat:2007 for academic writing rules. You can find lots of online resources on this topic.
+In Turkey, "Presidential Election and 28th Term General Election of Members of Parliament" will be held on May 14th, 2023. The current electoral system forces political parties to form alliances. Especially for parties that cannot enter parliament, the only way to exceed the 7% electoral threshold is to form a "power alliance". According to the current system, if the total vote of the alliance exceeds 7%, all parties that form the alliance are considered to have exceeded the threshold. However, another problem arises due to the D'Hondt system, as political parties forming an alliance and exceeding the threshold may still not be able to enter parliament due to this system.
 
-The sections in your project assignment must necessarily include the sections in this text (except the first section, of course). Apart from the sections used here, you can use different subsections. When writing your project, use this file as a draft and adapt its content to your purposes.
+There are many technical parameters behind the formation of electoral alliances. While politicians should not ignore cultural, political, and ideological differences when forming alliances, focusing more on technical issues can confuse voters. The research topic is to investigate the existence of this confusion among voters in Turkey. Do voters have sufficient knowledge about the current electoral system? Would the election outcome be affected if voters had more information about the system?
 
-In this section, mention the purpose and importance of your work in a few paragraphs.
+To answer these questions, a survey was conducted with 63 participants from 9 different provinces in Turkey, from different age, gender, education, income, and occupation groups. Participants under the age of 18 will not be taken into account (the voting age in Turkey is 18). In the survey, voters were asked personal questions such as age, gender, education level, annual household income, occupation, as well as questions about the electoral threshold percentage for the upcoming May 14th elections, whether they had heard of the D'Hondt system before, whether the political party they support is part of an alliance, what decision they would make if the political party they support makes a decision contrary to their beliefs, and how many members of parliament will be elected from their province.
+
+
 
 ## Literature Review
 
-In this section, discuss the articles you have read on the subject by giving references. This is a narrative citation @chang:2013. This one is a parenthetical citation [@chang:2013]. **Do not summarize each article individually under a separate title.** In the literature review section, **at least four** articles must be cited [@newbold:2003; @verzani:2014; @wickham:2014; @wooldridge:2015a].
-
-
-
-**References section is created automatically by Rmarkdown. There is no need to change the references section in the draft file.**
-
-**_You shouldn't delete the last 3 lines. Those lines are required for References section._**
+As it is a current topic, the literature is not yet sufficiently rich. More scientific articles will be published before and after the election. In the next stages of the study, more use can be made of the literature.
 
 \newpage
 # References {#references}
